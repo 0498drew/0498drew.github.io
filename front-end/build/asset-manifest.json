@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f5b0758.css",
+    "main.js": "/static/js/main.d382a881.js",
+    "static/media/remixicon.svg?t=1684338274817": "/static/media/remixicon.ce0e40c97bfc62e3edab.svg",
+    "static/media/avatar.png": "/static/media/avatar.23f91a66a8ca5194ac50.png",
+    "static/media/remixicon.eot?t=1684338274817": "/static/media/remixicon.4504b1fe216fbf391c33.eot",
+    "static/media/remixicon.ttf?t=1684338274817": "/static/media/remixicon.bc494a3a1aebeea65cee.ttf",
+    "static/media/remixicon.woff?t=1684338274817": "/static/media/remixicon.d7630016bbb194055f32.woff",
+    "static/media/remixicon.woff2?t=1684338274817": "/static/media/remixicon.082b68b860510f7036f0.woff2",
+    "static/media/login.jpg": "/static/media/login.ad7f4451cf77be021af4.jpg",
+    "static/media/ava-3.jpg": "/static/media/ava-3.5f2ee8861030d932716e.jpg",
+    "static/media/ava-5.jpg": "/static/media/ava-5.6f4aa30fcb6fad5c7498.jpg",
+    "static/media/ava-4.jpg": "/static/media/ava-4.cdf474ea1fac24ea0ba1.jpg",
+    "static/media/ava-1.jpg": "/static/media/ava-1.0c01b379b118846987ef.jpg",
+    "static/media/ava-2.jpg": "/static/media/ava-2.d8f55918e5938f63dd15.jpg",
+    "static/media/user.jpg": "/static/media/user.badacb7fb71ea6a3e80c.jpg",
+    "static/media/customization.jpg": "/static/media/customization.d9db477ddcd8dece26ae.jpg",
+    "static/media/trip-04.jpg": "/static/media/trip-04.953434e8f1d7c6a87b34.jpg",
+    "static/media/trip-06.jpg": "/static/media/trip-06.3667e4611457ca57efd8.jpg",
+    "static/media/trip-01.jpg": "/static/media/trip-01.dedc7c3cc11b86872be5.jpg",
+    "static/media/hero02.jpg": "/static/media/hero02.0501c6a71723ca83d157.jpg",
+    "static/media/trip-08.jpg": "/static/media/trip-08.9c8112cf07c228546c08.jpg",
+    "static/media/trip-02.jpg": "/static/media/trip-02.c56ffdb7ec099d9efb3b.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.2f5b0758.css.map": "/static/css/main.2f5b0758.css.map",
+    "main.d382a881.js.map": "/static/js/main.d382a881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5b0758.css",
+    "static/js/main.d382a881.js"
+  ]
+}
